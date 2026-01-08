@@ -2,8 +2,9 @@ module github.com/CuatHimBong/task-6
 
 go 1.22.7
 
+require github.com/DATA-DOG/go-sqlmock v1.5.2
+
 require (
-	github.com/DATA-DOG/go-sqlmock v1.5.2 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/google/go-cmp v0.6.0 // indirect
 	github.com/josharian/native v1.1.0 // indirect
